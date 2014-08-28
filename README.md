@@ -1,4 +1,4 @@
-Heroku buildpack: Null
+Buildpack: Null
 =======================
 
 This is a null [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks).
