@@ -26,4 +26,4 @@ Purpose
 -------
 This is useful only if there is something else doing something with your application.
 
-I'm using it with dokku to 
+I'm using it with dokku to store files server with nginx before proxying to apps
